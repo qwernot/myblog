@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on A Hugo</description>
     <generator>Hugo</generator>
-    <language>zh</language>
+    <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
